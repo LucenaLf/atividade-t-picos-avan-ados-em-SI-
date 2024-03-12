@@ -1,0 +1,22 @@
+body{
+    background-color: slategray;
+}
+h1{
+    background-color: brown;
+    border-radius: 10px;
+    
+}
+.p1{
+    color: blue
+
+}
+.p2{
+    color: blueviolet;
+
+}
+.p3{
+    color: crimson;
+}
+.p4{
+    color: violet;
+}
